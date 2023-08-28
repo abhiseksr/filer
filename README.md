@@ -1,6 +1,6 @@
 # WebApp Deployment using Kubernetes
 
-This repository contains Kubernetes manifests for deploying the "WebApp" application. The application is deployed as a single replica Deployment and exposed via a NodePort Service.
+This repository contains Kubernetes manifests for deploying the "FileInfo" application. The application is deployed as a single replica Deployment and exposed via a NodePort Service.
 
 ## Introduction
 
